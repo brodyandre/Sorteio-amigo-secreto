@@ -43,3 +43,7 @@ function sortearAmigo() {
     // Escolhe um amigo aleatoriamente
     const indiceAleatorio = Math.floor(Math.random() * amigosDisponiveis.length);
     const amigoSorteado = amigosDisponiveis[indiceAleatorio];
+    // Remove o amigo sorteado da lista de disponíveis e adiciona à lista de sorteados
+    amigosDisponiveis.splice(indiceAleatorio, 1);
+    amigosSorteados.push(amigoSorteado);
+}
