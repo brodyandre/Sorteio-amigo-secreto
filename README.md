@@ -38,7 +38,7 @@ O aplicativo foi criado para simplificar o processo de sorteios de amigo secreto
 
 Aqui está uma prévia do aplicativo em funcionamento:
 
-![Captura de Tela - Sorteio de Amigo Secreto](assets/screenshot.png)
+![Captura de Tela - Sorteio de Amigo Secreto](sorteio_amigo_secreto.pdf)
 
 6. 🙋 Sobre o Autor
 
