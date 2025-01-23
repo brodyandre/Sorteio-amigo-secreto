@@ -65,3 +65,6 @@ function permitirApenasLetras(event) {
     if (/[^a-zA-ZÀ-ÿ\s]/.test(valor)) {
         alert('Por favor, digite apenas letras. Caracteres especiais não são permitidos.'); // Mensagem de alerta
     }
+    // Remove caracteres que não são letras
+    input.value = valor.replace(/[^a-zA-ZÀ-ÿ\s]/g, ''); // Permite letras e espaços
+}
