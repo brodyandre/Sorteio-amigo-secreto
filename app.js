@@ -22,7 +22,7 @@ function adicionarAmigo() {
     } else {
         alert('Por favor, digite um nome válido.'); // Alerta se o campo estiver vazio
     }
-}
+
 
 // Função para sortear um amigo secreto
 function sortearAmigo() {
@@ -39,4 +39,7 @@ function sortearAmigo() {
         alert('Você já sorteou todos os nomes da Lista do Amigo Secreto.');
         return;
     }
-}
+
+    // Escolhe um amigo aleatoriamente
+    const indiceAleatorio = Math.floor(Math.random() * amigosDisponiveis.length);
+    const amigoSorteado = amigosDisponiveis[indiceAleatorio];
