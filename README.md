@@ -44,10 +44,10 @@ Aqui está uma prévia do aplicativo em funcionamento:
 
 <img src="assets/IMG_1191.png" alt="Foto do Autor" width="150" style="border-radius: 50%;">
 
-7. Luiz André
+Luiz André
 Desenvolvedor entusiasta, apaixonado por criar soluções simples e eficientes. Conecte-se comigo em GitHub!
 
-8. # Meu Projeto
+ ### Meu Projeto
 
 Esse é o meu aplicativo que foi deployado no Vercel.
 
