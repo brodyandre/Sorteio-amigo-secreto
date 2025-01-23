@@ -23,3 +23,20 @@ function adicionarAmigo() {
         alert('Por favor, digite um nome válido.'); // Alerta se o campo estiver vazio
     }
 }
+
+// Função para sortear um amigo secreto
+function sortearAmigo() {
+    const listaAmigos = document.getElementById('listaAmigos');
+    const amigos = Array.from(listaAmigos.getElementsByTagName('li')); // Obtém todos os elementos <li>
+
+    if (amigos.length === 0) {
+        alert('Adicione amigos à lista antes de sortear.'); // Alerta se não houver amigos
+        return;
+    }
+
+   // Se todos os amigos já foram sorteados, exibe uma mensagem
+    if (amigosDisponiveis.length === 0) {
+        alert('Você já sorteou todos os nomes da Lista do Amigo Secreto.');
+        return;
+    }
+}
