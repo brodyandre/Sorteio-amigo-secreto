@@ -23,6 +23,10 @@ O aplicativo foi criado para simplificar o processo de sorteios de amigo secreto
 - **CSS**: Estilo e layout responsivo.
 - **JavaScript**: Lógica para adicionar nomes e realizar o sorteio aleatório.
 
+![HTML](https://img.shields.io/badge/HTML-70%25-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)
+![CSS](https://img.shields.io/badge/CSS-10%25-red)
+
 ## 🚀 Como Utilizar
 
 1. Clone este repositório:
