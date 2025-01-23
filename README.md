@@ -42,7 +42,7 @@ Aqui está uma prévia do aplicativo em funcionamento:
 
 6. 🙋 Sobre o Autor
 
-<img src="coloque-aqui-o-caminho-da-sua-foto.jpg" alt="Foto do Autor" width="150" style="border-radius: 50%;">
+<img src="assets/IMG_1191.png" alt="Foto do Autor" width="150" style="border-radius: 50%;">
 
 Luiz André
 Desenvolvedor entusiasta, apaixonado por criar soluções simples e eficientes. Conecte-se comigo em GitHub!
