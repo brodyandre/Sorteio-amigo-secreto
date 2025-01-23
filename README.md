@@ -51,7 +51,7 @@ Desenvolvedor entusiasta, apaixonado por criar soluções simples e eficientes. 
 
 Esse é o meu aplicativo que foi deployado no Vercel.
 
-Acesse a aplicação ao vivo: [https://meuapp.vercel.app](https://meuapp.vercel.app)
+Acesse a aplicação ao vivo: [https://meuapp.vercel.app](https://sorteio-amigo-secreto-48zkm4cml-luiz-andre-de-souzas-projects.vercel.app)
 
 
 
