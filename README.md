@@ -20,8 +20,9 @@ O aplicativo foi criado para simplificar o processo de sorteios de amigo secreto
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML**: Estrutura da aplicação.
-- **CSS**: Estilo e layout responsivo.
 - **JavaScript**: Lógica para adicionar nomes e realizar o sorteio aleatório.
+- **CSS**: Estilo e layout responsivo.
+
 
 ![HTML](https://img.shields.io/badge/HTML-70%25-brightgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)
