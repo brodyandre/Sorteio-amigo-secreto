@@ -47,3 +47,12 @@ function sortearAmigo() {
     amigosDisponiveis.splice(indiceAleatorio, 1);
     amigosSorteados.push(amigoSorteado);
 }
+
+// Função para reiniciar o sorteio
+function reiniciarSorteio() {
+    amigosSorteados = [];
+    amigosDisponiveis = [];
+    document.getElementById('listaAmigos').innerHTML = ''; // Limpa a lista de amigos
+    document.getElementById('resultado').innerHTML = ''; // Limpa o resultado
+    alert('O sorteio foi reiniciado. Você pode adicionar novos amigos!'); // Mensagem de confirmação
+}
