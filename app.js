@@ -68,3 +68,5 @@ function permitirApenasLetras(event) {
     // Remove caracteres que não são letras
     input.value = valor.replace(/[^a-zA-ZÀ-ÿ\s]/g, ''); // Permite letras e espaços
 }
+- [ ] // Adiciona o evento de entrada ao campo de texto
+document.getElementById('amigo').addEventListener('input', permitirApenasLetras);
