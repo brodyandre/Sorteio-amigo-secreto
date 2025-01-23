@@ -56,3 +56,7 @@ function reiniciarSorteio() {
     document.getElementById('resultado').innerHTML = ''; // Limpa o resultado
     alert('O sorteio foi reiniciado. Você pode adicionar novos amigos!'); // Mensagem de confirmação
 }
+- [ ] / Função para permitir apenas letras no campo de entrada
+function permitirApenasLetras(event) {
+    const input = event.target;
+    const valor = input.value;
